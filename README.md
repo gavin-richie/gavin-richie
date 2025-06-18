@@ -2,14 +2,14 @@
 <h3 align="center">A passionate fullstack developer from China</h3>
 <!-- shields badge -->
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=lyl1129&label=Profile%20views&color=0e75b6&style=flat" alt="gavinharris" /> 
+    <img src="https://komarev.com/ghpvc/?username=gavin-richie&label=Profile%20views&color=0e75b6&style=flat" alt="gavinharris" /> 
 	<img src="https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&logoColor=white"/>
     <img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt=""/>
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt=""/>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/lyl1129/springboot-quickstart?logo=github" />
+  <img src="https://img.shields.io/github/stars/gavin-richie/springboot-quickstart?logo=github" />
   <img src="https://img.shields.io/github/forks/hawtim/badge-collection?logo=github" />
   <img src="https://img.shields.io/discord/your-server-id?logo=discord" />
   <img src="https://img.shields.io/badge/Slack-join_chat-E01563?logo=slack" />
@@ -49,13 +49,13 @@
 
 
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyl1129&show_icons=true&locale=en&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="gavinharris" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavin-richie&show_icons=true&locale=en&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="gavinharris" />
 </p>
 
 
 <div align="center"> 
 	<a href="">     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />   </a> 
-	<a href="">     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=lyl1129" />   </a> 
+	<a href="">     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gavin-richie" />   </a> 
 </div>
 
 <p align=center>
