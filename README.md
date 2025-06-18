@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm gavin harris</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
-<!-- shields badge -->
+
 <p align="center"> 
+<!-- shields badge -->
     <img src="https://komarev.com/ghpvc/?username=gavin-richie&label=Profile%20views&color=0e75b6&style=flat" alt="gavinharris" /> 
 	<img src="https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&logoColor=white"/>
     <img src="https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white" alt=""/>
@@ -15,9 +16,9 @@
   <img src="https://img.shields.io/badge/Slack-join_chat-E01563?logo=slack" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/nginx/nginx/build.yml?logo=github-actions" />
-  <img src="https://img.shields.io/codecov/c/github/nginx/nginx?logo=codecov" />
-  <img src="https://img.shields.io/lgtm/grade/javascript/github/kubernetes/kubernetes?logo=lgtm" />
+  <img src="https://img.shields.io/github/actions/workflow/status/username/repo/build.yml?logo=github-actions" />
+  <img src="https://img.shields.io/codecov/c/github/username/repo?logo=codecov" />
+  <img src="https://img.shields.io/github/v/release/yourname/repo?include_prereleases&logo=github" />
   <img src="https://img.shields.io/badge/dependencies-up_to_date-brightgreen" />
 </div>
 
@@ -28,6 +29,17 @@
   <img src="https://img.shields.io/badge/Node.js-18.x-green?logo=node.js" />
   <img src="https://img.shields.io/badge/npm-9.x-CB3837?logo=npm" />
   <img src="https://img.shields.io/badge/Yarn-1.x-2C8EBB?logo=yarn" />
+	<!-- language -->
+  <img src="https://img.shields.io/badge/Python-3.10-14354C.svg?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-17-00599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17-ED8B00.svg?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+    <!-- 前端框架 -->
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
+    <!-- 全栈工具链 -->
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 </div>
 
 
@@ -48,7 +60,7 @@
 
 
 
-<p>
+<p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavin-richie&show_icons=true&locale=en&rank_icon=github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="gavinharris" />
 </p>
 
